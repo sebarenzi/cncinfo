@@ -1,8 +1,8 @@
-CNC INFO
-==========================
-### Contenido para iniciarse ###
+# CNC INFO #
+-----
+## Contenido para iniciarse ##
 
-*Videos:*
+### Videos: ###
   - Primeros pasos: ([https://pages.github.com/](https://www.youtube.com/watch?v=hU4sUAviO_c&list=PLAaLsKpO2gcv4dh3hbROkAPgRcN5axWVT&index=3)).
   - Punto: (https://www.youtube.com/watch?v=DpQrmG4Myzg&list=PLAaLsKpO2gcv4dh3hbROkAPgRcN5axWVT&index=2).
   - Importar Vectores: (https://www.youtube.com/watch?v=t9NiqksMHIc&list=PLAaLsKpO2gcv4dh3hbROkAPgRcN5axWVT&index=1).
@@ -17,4 +17,5 @@ CNC INFO
   - Macros en UGS 2: (https://www.youtube.com/watch?v=xam7yw5qpGU&t=386s&ab_channel=MundoC.N.C.conArduino)
   - Manoseo UGS: (https://www.youtube.com/watch?v=UZanS4xPfrs&ab_channel=MundoC.N.C.conArduino)
   - Inkscape: (https://www.youtube.com/watch?v=upoBErgYVQg&t=376s&ab_channel=GADGETBROMX)
-
+### Titutoriales ###
+  - Retomar un corte despues de un corte de luz
