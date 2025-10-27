@@ -3,8 +3,8 @@ CNC INFO
 ### Contenido para iniciarse ###
 
 *Videos:*
-  - [Primeros pasos:] ([https://pages.github.com/](https://www.youtube.com/watch?v=hU4sUAviO_c&list=PLAaLsKpO2gcv4dh3hbROkAPgRcN5axWVT&index=3)).
-  - [Punto:] (https://www.youtube.com/watch?v=DpQrmG4Myzg&list=PLAaLsKpO2gcv4dh3hbROkAPgRcN5axWVT&index=2).
+  - [Primeros pasos:]([https://pages.github.com/](https://www.youtube.com/watch?v=hU4sUAviO_c&list=PLAaLsKpO2gcv4dh3hbROkAPgRcN5axWVT&index=3)).
+  - [Punto:](https://www.youtube.com/watch?v=DpQrmG4Myzg&list=PLAaLsKpO2gcv4dh3hbROkAPgRcN5axWVT&index=2).
   - [Importar Vectores:] (https://www.youtube.com/watch?v=t9NiqksMHIc&list=PLAaLsKpO2gcv4dh3hbROkAPgRcN5axWVT&index=1).
   - [Puntilleo:] (https://www.youtube.com/watch?v=Tyg6re9IRzE&list=PLAaLsKpO2gcv4dh3hbROkAPgRcN5axWVT&index=4).
   - [Importar Celosias:] (https://www.youtube.com/watch?v=QvMHq-BDoaE&list=PLAaLsKpO2gcv4dh3hbROkAPgRcN5axWVT&index=12).
