@@ -1,4 +1,4 @@
-
+## Como retomar un corte despues de un corte de luz ##
  
  1. No muevas la pieza del lugar, la recuperación solo será precisa si la pieza no se ha movido respecto al origen (cero) que usaste al empezar.
 
