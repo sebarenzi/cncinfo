@@ -17,9 +17,13 @@
   - Macros en UGS 2: (https://www.youtube.com/watch?v=xam7yw5qpGU&t=386s&ab_channel=MundoC.N.C.conArduino)
   - Manoseo UGS: (https://www.youtube.com/watch?v=UZanS4xPfrs&ab_channel=MundoC.N.C.conArduino)
   - Inkscape: (https://www.youtube.com/watch?v=upoBErgYVQg&t=376s&ab_channel=GADGETBROMX)
+
 ### Tutoriales ###
   - [Retomar un corte despues de un corte de luz](retomarcorte.md)
 
+### Horarios ZOOM ###
+  - Martes y Jueves 18hs (Gaston)
+  - Viernes 22hs (Nestor)
 ### Descargas ###
   - Aspire
   - Vectores
