@@ -19,3 +19,15 @@
   - Inkscape: (https://www.youtube.com/watch?v=upoBErgYVQg&t=376s&ab_channel=GADGETBROMX)
 ### Tutoriales ###
   - [Retomar un corte despues de un corte de luz](retomarcorte.md)
+
+### Descargas ###
+  - Aspire
+  - Vectores
+
+### Links utilies ###
+  - Proyecto UGS: (https://winder.github.io/ugs_website/)
+  - Proyecto GRBL: (https://github.com/grbl/grbl)
+  - NC Viewer: (https://ncviewer.com/)
+  - 3D for Print: (https://www.3dforprint.com/)
+  - CAMotics: (https://camotics.org/)
+  - CNC-JS: (https://cnc.js.org/)
