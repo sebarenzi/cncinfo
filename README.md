@@ -30,6 +30,7 @@
   - Vectores
 
 ### Links utilies ###
+  - Canal Youtube Nestor Chiearenza: (https://youtube.com/@nestorchiarenza4198?si=CdtRiht9Lm_bjPxf)
   - Proyecto UGS: (https://winder.github.io/ugs_website/)
   - Proyecto GRBL: (https://github.com/grbl/grbl)
   - NC Viewer: (https://ncviewer.com/)
