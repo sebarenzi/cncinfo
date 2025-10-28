@@ -1,5 +1,8 @@
 # CNC INFO #
 
+### Horarios ZOOM ###
+  - Martes y Jueves 18hs (Gaston)
+  - Viernes 22hs (Nestor)
 ## Contenido para iniciarse ##
 
 ### Videos: ###
@@ -22,9 +25,6 @@
   - [Retomar un corte despues de un corte de luz](retomarcorte.md)
   - [Codigos G (movimientos y modos)](codigosg.md)
 
-### Horarios ZOOM ###
-  - Martes y Jueves 18hs (Gaston)
-  - Viernes 22hs (Nestor)
 ### Descargas ###
   - Aspire
   - Vectores
