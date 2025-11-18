@@ -42,3 +42,4 @@
 ### Emprendimientos ###
 - JSR Tablas de corte: (https://www.instagram.com/jsr.cb)
 - Amadero Diseno: (https://www.instagram.com/amaderodiseno)
+- MG Artesanias: (https://www.instagram.com/mgartesanias.ok/)
