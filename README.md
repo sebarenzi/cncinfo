@@ -38,3 +38,7 @@
   - 3D for Print: (https://www.3dforprint.com/)
   - CAMotics: (https://camotics.org/)
   - CNC-JS: (https://cnc.js.org/)
+
+### Emprendimientos ###
+- JSR Tablas de corte: (https://www.instagram.com/jsr.cb)
+- 
