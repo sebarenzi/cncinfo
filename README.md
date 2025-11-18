@@ -44,4 +44,4 @@
 - Amadero Diseno: (https://www.instagram.com/amaderodiseno)
 - MG Artesanias: (https://www.instagram.com/mgartesanias.ok/)
 - Batang: (www.instagram.com/batang.ok)
-- Carpinteroehijos: (https://www.instagram.com/carpinteroehijos)
+- Carpintero e hijos: (https://www.instagram.com/carpinteroehijos)
