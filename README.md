@@ -33,9 +33,9 @@
        - [Instrucciones instalacion:](https://www.youtube.com/watch?v=me9gu4gf9P0) 
     - v. 9.5
     - v. 10.5
-       -[Link descarga:](https://1drv.ms/u/c/477b63f6f5b695d3/IQDTlbb19mN7IIBHqdABAAAAAW8M5LyHS-5JW7CZLZZfp6I?e=LDzohD)   
+       - [Link descarga:](https://1drv.ms/u/c/477b63f6f5b695d3/IQDTlbb19mN7IIBHqdABAAAAAW8M5LyHS-5JW7CZLZZfp6I?e=LDzohD)   
   - UGS
-       -[Link descarga:](https://winder.github.io/ugs_website/download/) 
+       - [Link descarga:](https://winder.github.io/ugs_website/download/) 
 
 ### Links utilies ###
   - Canal Youtube Nestor Chiearenza: (https://youtube.com/@nestorchiarenza4198?si=CdtRiht9Lm_bjPxf)
