@@ -32,11 +32,11 @@
        - [Link descarga](www.google.com)
        - [Instrucciones instalacion](https://www.youtube.com/watch?v=me9gu4gf9P0) 
     - v. 9.5
-       - [Link descarga:](https://1drv.ms/u/c/477b63f6f5b695d3/IQAUX1uT_ubYTooVE2l9DKrlAWiyQGzSIRbRRDAtZw2vbYw?e=8KboMQ) 
+       - [Link descarga](https://1drv.ms/u/c/477b63f6f5b695d3/IQAUX1uT_ubYTooVE2l9DKrlAWiyQGzSIRbRRDAtZw2vbYw?e=8KboMQ) 
     - v. 10.5
-       - [Link descarga:](https://1drv.ms/u/c/477b63f6f5b695d3/IQAqZ2GIyp8CS5PiXFLr5u3cAV8I-ItwIbZAO1EMC48c9do?e=0tatjH)   
+       - [Link descarga](https://1drv.ms/u/c/477b63f6f5b695d3/IQAqZ2GIyp8CS5PiXFLr5u3cAV8I-ItwIbZAO1EMC48c9do?e=0tatjH)   
   - UGS
-       - [Link descarga:](https://winder.github.io/ugs_website/download/) 
+       - [Link descarga](https://winder.github.io/ugs_website/download/) 
 
 ### Links utilies ###
   - Canal Youtube Nestor Chiearenza: (https://youtube.com/@nestorchiarenza4198?si=CdtRiht9Lm_bjPxf)
