@@ -29,7 +29,7 @@
 ### Descargas ###
   - Aspire
     - V. 12
-       - [Link descarga (RAR)](https://1drv.ms/f/c/477b63f6f5b695d3/UgDTlbb19mN7IIBHxAAAAAAAAA_IETK4hcNaF0c)
+       - [Link descarga (RAR)](https://1drv.ms/u/c/477b63f6f5b695d3/IQAUX1uT_ubYTooVE2l9DKrlAWiyQGzSIRbRRDAtZw2vbYw?e=M4w7dG)
        - [Instrucciones instalacion](https://www.youtube.com/watch?v=me9gu4gf9P0) 
     - v. 9.5
        - [Link descarga](https://1drv.ms/u/c/477b63f6f5b695d3/IQAUX1uT_ubYTooVE2l9DKrlAWiyQGzSIRbRRDAtZw2vbYw?e=8KboMQ) 
