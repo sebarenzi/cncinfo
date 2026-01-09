@@ -37,7 +37,9 @@
     - v. 10.5
        - [Link descarga](https://1drv.ms/u/c/477b63f6f5b695d3/IQAqZ2GIyp8CS5PiXFLr5u3cAV8I-ItwIbZAO1EMC48c9do?e=0tatjH)   
   - UGS
-       - [Link descarga](https://winder.github.io/ugs_website/download/) 
+       - [Link descarga](https://winder.github.io/ugs_website/download/)
+  - Camotics
+       - [Link descarga](https://1drv.ms/u/c/477b63f6f5b695d3/IQDteZblvPYfQb9ds5ovO82DAUIfThXPCG56aW3HFfQD1bg?e=f7ULsW)      
 
 ### Links utilies ###
   - Canal Youtube Nestor Chiearenza: (https://youtube.com/@nestorchiarenza4198?si=CdtRiht9Lm_bjPxf)
