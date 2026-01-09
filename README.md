@@ -25,6 +25,7 @@
 ### Tutoriales ###
   - [Retomar un corte despues de un corte de luz](retomarcorte.md)
   - [Codigos G (movimientos y modos)](codigosg.md)
+  - [Resumen de Códigos G compatibles con GRBL (v1.1)](https://1drv.ms/b/c/477b63f6f5b695d3/IQCUt4Uh8UEKT60kvtAZV7tiATGFdBVdoi-xfUL0HPS-T3Q?e=P2XTCA)
 
 ### Descargas ###
   - Aspire
