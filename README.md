@@ -21,6 +21,8 @@
   - Manoseo UGS: (https://www.youtube.com/watch?v=UZanS4xPfrs&ab_channel=MundoC.N.C.conArduino)
   - Inkscape: (https://www.youtube.com/watch?v=upoBErgYVQg&t=376s&ab_channel=GADGETBROMX)
   - Como agregar una herramienta nueva al Aspire: (https://www.youtube.com/watch?v=glwrnX_A9AU)
+  - UGS Plugins: (https://www.youtube.com/watch?v=3VPo75kkzg0&t=519s)
+  - UGS Platform: (https://www.youtube.com/watch?v=UZanS4xPfrs&t=301s)
 
 ### Tutoriales ###
   - [Retomar un corte despues de un corte de luz](retomarcorte.md)
