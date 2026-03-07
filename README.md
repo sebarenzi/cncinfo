@@ -23,6 +23,7 @@
   - Como agregar una herramienta nueva al Aspire: (https://www.youtube.com/watch?v=glwrnX_A9AU)
   - UGS Plugins: (https://www.youtube.com/watch?v=3VPo75kkzg0&t=519s)
   - UGS Platform: (https://www.youtube.com/watch?v=UZanS4xPfrs&t=301s)
+  - Cambiar aceleracion UGS: (https://1drv.ms/v/c/477b63f6f5b695d3/IQDGRXkKnByzRqHifwys-xFAARW72Rs2cFRlu07poWgdm3M?e=2aQPY1)
 
 ### Tutoriales ###
   - [Retomar un corte despues de un corte de luz](retomarcorte.md)
