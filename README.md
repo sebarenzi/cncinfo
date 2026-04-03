@@ -32,7 +32,7 @@
 
 ### Descargas ###
   - Aspire
-    - V. 12
+    - V. 12.013
        - [Link descarga (RAR)](https://1drv.ms/u/c/477b63f6f5b695d3/IQBNegWLIlilR4bTrCJDoXRTAWlbuLpbb34t_6mHNE1PysU?e=tsblXh) Clave:  "`www.zdescargas.org`"  (sin las comillas)
        - [Instrucciones instalacion](https://www.youtube.com/watch?v=me9gu4gf9P0) 
     - v. 9.5
